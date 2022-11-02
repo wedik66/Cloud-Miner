@@ -31,4 +31,4 @@ then a cloud mining script developed in OOP PHP with security in mind, which can
 
 ## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
 
-## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/inject_exp#
+## Contact Me on telegram or twitter: https://twitter.com/MetthewKals / https://t.me/inject_exp#
